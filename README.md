@@ -107,62 +107,82 @@ haqiqat e to va man
 ----------------------------------
 
 به شبگیر چون بردمید آفتاب
+
 سر جنگ جویان برآمد ز خواب
 
 Be šabgir cun bardamid ǎftǎb
+
 Sar e jangjuyǎn barǎmad ze xǎb
 
 بپوشید سهراب خفتان رزم
+
 سرش پر ز رزم و دلش پر ز بزم
 
 Bepušid Sohrǎb xeftǎn e razm
+
 Sar aš por ze razm o del aš por ze bazm
 
 بیامد خروشان بران دشت جنگ
+
 به چنگ اندرون گرزهٔ گاورنگ
 
 Beyǎmad xorušǎn barǎn dašt e jang
+
 Be cang andarun gorze e gǎvrang
 
 ز رستم بپرسید خندان دو لب
+
 تو گفتی که با او به هم بود شب
 
 Ze Rostam beporsid xandan do lab
+
 To gofti ke bǎ U beham bud šab
 
 که شب چون بدت روز چون خاستی
+
 ز پیگار بر دل چه آراستی
 
 Ke šab cun bod'at? Ruz cun xǎsti?
+
 Ze peygǎr bar del ce ǎrǎsti?
 
 ز کف بفگن این گرز و شمشیر کین
+
 بزن جنگ و بیداد را بر زمین
 
 Ze kaf befgan in gorz o šamšir e kin
+
 Bezan jang o bidǎd rǎ bar zamin
 
 نشنیم هر دو پیاده به هم
+
 به می تازه داریم روی دژم
 
 Nešinim har do piyǎde be ham
+
 Be mey tǎze dǎrim ruy e dožam
 
 به پیش جهاندار پیمان کنیم
+
 دل از جنگ جستن پشیمان کنیم
 
 Be piš e jahǎndǎr peymǎn konim
+
 Del az jang jostan pašimǎn konim
 
 همان تا کسی دیگر آید به رزم
+
 تو با من بساز و بیارای بزم
 
 Hamǎn tǎ kasi digar ǎyad be razm
+
 To bǎ man besǎz o biyǎrǎy bazm
 
 دل من همی با تو مهر آورد
+
 همی آب شرمم به چهر آورد
 
 Del e man hami bǎ to mehr ǎvarad
+
 Hami ǎbe šarm'am be cehr ǎvarad
 
