@@ -186,3 +186,23 @@ Del e man hami bǎ to mehr ǎvarad
 
 Hami ǎbe šarm'am be cehr ǎvarad
 
+----------------------------------------
+
+آن قصر که جمشید در او جام گرفت
+
+آهو بچه کرد و روبه آرام گرفت
+
+بهرام که گور می‌گرفتی همه عمر
+
+دیدی که چگونه گور بهرام گرفت
+
+Ǎn qasr ke Jamšid dar U jǎm gereft
+
+Ǎhu bace kard o rubah ǎrǎm gereft
+
+Bahrǎm ke gur migerfti hame omr
+
+Didi ke cegune gur Bahrǎm gereft
+
+----------------------------------------
+
