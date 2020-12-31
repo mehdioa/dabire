@@ -1,7 +1,7 @@
 # dabire
-Dabire, A Persian Language Roman Script
+## Dabire, A Persian Language Roman Script
 
-Alefbǎ: {A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, Ǎ, Š, Ž, Ě}
+### Alefbǎ: {A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, Ǎ, Š, Ž, Ě}
 
 A: 'a' sound (Fathe َ)
 
@@ -64,19 +64,121 @@ Z: 'z' consonant (ز ذ ض ظ)
 Ě: 'ě' consonant (Stop = ع ساکن like "baědan" = "بعداً")
 
 
-Nemune:
+## Dastur
+
+
+### ع صدادار هیچگاه با Ě نوشته نمی‌شود.
+
+amal = عمل
+
+aěmǎl = اعمال
+
+### ه بی صدا همواره e نوشته می‌شود
+
+xǎne = خانه
+
+xǎnehǎ = خانه‌ها
+
+hamrǎh = همراه
+
+### ضمیر «او» همواره به فرم بزرگ U نوشته می‌شود.
+
+
+### نوشتن اضافه
+
+در این دبیره کسره اضافه همواره به فرم 'e' .جدا نوشته می‌شود حتی اگر پس از واکه (حرف صدادار) بیاید، که باید ye بیان شود (ولی همچنان e نوشته می‌شود)
+
+نمونه:
+
+xǎne e man = خانهٔ من
+
+pesar e man = پسرِ من
+
+Leylǎ e majnun = لیلایِ مجنون
+
+در حالت ضمیر خودی تکینگی وجود دارد که در ادامه خواهیم دید.
+
+###   شناسه کارواژه (فعل) و «می» و «ب» هر دو اینها به کارواژه می‌چسبند
+
+نمونه:
+
+miravam = می‌روم
+
+beravam = بروم
+
+
+### نشان گروهی
+
+نشان گروهی «ها» و «ان» همواره به واژهٔ خود می‌چسبد
+
+نمونه:
+
+pesarhǎ = پسرها
+
+pesarǎn = پسران
+
+### ضمیر خودی پیوسته م، ت، ش، مان، تان، شان (am, at, aš, mǎn, tǎn, šan)
+
+این ضمیرها همواره جدا نوشته می‌شوند؛ و اگر حالت وابسته (Genetive case) باشند، قبل از آنها کسره نوشته می‌شود، ولی درست خوانده می‌شوند. (در اینجا باید دستور همه‌گیر نوشته شود)
+
+نمونه:
+
+xǎne e mǎn = خانهٔ‌مان
+
+pesar e am =  پسرم
+[ = pesar e man]
+
+در اینجا آرمان «پسرِ من» است. اما در جمله زیر «پسرم» به معنی «پسر به من» است که e نیازی نیست
+
+xodǎ pesar am dǎd = خدا پسرم داد
+
+be komak e am niyǎz dǎri?
+
+به کمکم نیاز داری؟
+
+dar zendegi komak am kard.
+
+در زندگی کمکم کرد.
+
+### ' چندین کاربرد بین واژه‌ای دارد
+
+۱. برای واژه‌های کوتاه شده استفاده می‌شود
+
+k'az = کز
+
+v'r = ور
+
+z'U = زو
+
+kami'st = کمیست
+
+Az U šǎdemǎni o z'U at qami'st
+
+V'az U e at fozuni o z'U at kami'st
+
+ازو شادمانی وزویت غمیست
+
+وزویت فزونی وزویت کمیست
+
+در z'U at چون حالت وابستگی ندارد (کسره اضافه دیده نمی‌شود)، at هنگام خواندن yat می‌شود.
+
+### «ی» ناشناس (نکره) همواره جدا نوشته می‌شود، ولی «ی» بستگی پیوسته است.
+
+Idehǎ e jahǎni = ایده‌های جهانی
+
+Jahǎn i ke mibinim = جهانی که می‌بینیم
 
 -----------------------------------
 
-دلتنگیهای آدمی را باد ترانه ای می خواند
+دلتنگیهای آدمی را باد ترانه‌ای می‌خواند
 
 Deltangihǎ e ǎdami rǎ bǎd tarǎne i mixǎnad
 
-رویاهایش را آسمان پر ستاره نادیده می گیرد
+رویاهایش را آسمان پر ستاره نادیده می‌گیرد
 
 rowyǎhǎ aš rǎ ǎsmǎn e por-setǎre nǎdide migirad
 
-و هر دانه ی برفی به اشکی ناریخته می ماند
+و هر دانه ی برفی به اشکی ناریخته می‌ماند
 
 va har dǎne e barf i be aški nǎrixte mimǎnad
 
@@ -88,11 +190,11 @@ sokut saršǎr az soxanǎn e nǎgofte ast
 
 az harakǎt e nǎkarde
 
-اعتراف به عشق های نهان
+اعتراف به عشق‌های نهان
 
 eěterǎf be ešqhǎ e nahǎn
 
-و شگفتی های بر زبان نیامده
+و شگفتی‌های بر زبان نیامده
 
 va šegeftihǎ e bar zaban nayǎmade
 
@@ -120,7 +222,7 @@ Sar e jangjuyǎn barǎmad ze xǎb
 
 Bepušid Sohrǎb xeftǎn e razm
 
-Sar aš por ze razm o del aš por ze bazm
+Sar e aš por ze razm o del e aš por ze bazm
 
 بیامد خروشان بران دشت جنگ
 
@@ -156,7 +258,7 @@ Bezan jang o bidǎd rǎ bar zamin
 
 نشنیم هر دو پیاده به هم
 
-به می تازه داریم روی دژم
+به می‌تازه داریم روی دژم
 
 Nešinim har do piyǎde be ham
 
@@ -184,7 +286,7 @@ To bǎ man besǎz o biyǎrǎy bazm
 
 Del e man hami bǎ to mehr ǎvarad
 
-Hami ǎbe šarm'am be cehr ǎvarad
+Hami ǎbe šarm am be cehr ǎvarad
 
 ----------------------------------------
 
