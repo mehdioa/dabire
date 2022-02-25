@@ -1,9 +1,9 @@
 # dabire
 ## Dabire, A Persian Language Roman Script
 
-### Alefbǎ: {A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, Ǎ, Š, Ž, Ě}
+### Alefbā: {A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, Ā, Š, Ž, Ë}
 
-A: 'a' sound (Fathe َ)
+A: 'a' sound (Zebar َ)
 
 B: 'b' consonant (ب)
 
@@ -11,7 +11,7 @@ C: 'ch' consonant (چ)
 
 D: 'd' consonant (د)
 
-E: 'e' sound (Kasre ِ)
+E: 'e' sound (Zir ِ)
 
 F: 'f' consonant (ف)
 
@@ -31,7 +31,7 @@ M: 'm' consonant (م)
 
 N: 'n' consonant (ن)
 
-O: 'o' sound (Zammeُ )
+O: 'o' sound (Pish ُ)
 
 P: 'p' consonant (پ)
 
@@ -55,13 +55,13 @@ Y: 'y' consonant (ی)
 
 Z: 'z' consonant (ز ذ ض ظ)
 
-Ǎ: 'ǎ' sound (آ)
+Ā: 'ā' sound (آ)
 
 Š: 'š' consonant (ش)
 
 Ž: 'ž' consonant (ژ)
 
-Ě: 'ě' consonant (Stop = ع ساکن like "baědan" = "بعداً")
+Ë: 'ë' consonant (Stop = ع ایستا like "baëdan" = "بعداً")
 
 
 ## Dastur
@@ -69,19 +69,19 @@ Z: 'z' consonant (ز ذ ض ظ)
 در دبیره، پافشاری بر جدانویسی است.
 
 
-### ع صدادار هیچگاه با Ě نوشته نمی‌شود.
+### «ع» صدادار هیچگاه با Ë نوشته نمی‌شود.
 
 amal = عمل
 
-aěmǎl = اعمال
+aëmāl = اعمال
 
-### ه بی صدا همواره e نوشته می‌شود
+### «ه» بی صدا همواره e نوشته می‌شود
 
-xǎne = خانه
+xāne = خانه
 
-xǎnehǎ = خانه‌ها
+xānehā = خانه‌ها
 
-hamrǎh = همراه
+hamrāh = همراه
 
 ### ضمیر «او» همواره به فرم بزرگ U نوشته می‌شود.
 
@@ -94,14 +94,14 @@ hamrǎh = همراه
 
 نمونه:
 
-xǎne ye man = خانهٔ من
+xāne ye man = خانهٔ من
 
 pesar e man = پسرِ من
 
-Leylǎ ye majnun = لیلایِ مجنون
+Leylā ye majnun = لیلایِ مجنون
 
 
-###   شناسه کارواژه (فعل) و «می» و(پیوستگی)، «ب»  (دستور)،  و «ن»  (پاد) هر سه اینها به کارواژه می‌چسبند ولی در کارواژه‌های پیوندی، چه پیشوندی باشد چه نباشد، پیشوند جدا نوشته می‌شود. هر بخشی از یک کارواژه که «ن» پاد به آن می‌چسبد (در گفتار)، در نوشتار هم جدا نوشته می‌شود.
+###   شناسه کارواژه [فعل] و «می» و(پیوستگی)، «ب»  (دستور)،  و «ن»  (پاد) هر سه اینها به کارواژه می‌چسبند ولی در کارواژه‌های پیوندی، چه پیشوندی باشد چه نباشد، پیشوند جدا نوشته می‌شود. هر بخشی از یک کارواژه که «ن» پاد به آن می‌چسبد (در گفتار)، در نوشتار هم جدا نوشته می‌شود.
 
 migardam = می‌گردم
 
@@ -109,23 +109,23 @@ begardam = بگردم
 
 bar nagardam = برنگردم
 
-bar xǎham gašt = برخواهم‌گشت
+bar xāham gašt = برخواهم‌گشت
 
 bar nemigardim = برنمی‌گردیم
 
-dǎrand = دارند
+dārand = دارند
 
-nadǎrand = ندارند
+nadārand = ندارند
 
-bar dǎrand = بردارند
+bar dārand = بردارند
 
-bar nemidǎrand = برنمی‌دارند
+bar nemidārand = برنمی‌دارند
 
 ولی برای نمونه، «آوردن» سرهم نوشته می‌شود، هرچند که کارواژه‌ای پیشوندی است («آ» + «وردن») ولی همانطور که می‌دانیم «ن» پاد پیش از «آ» گفته می‌شود. بنابراین
 
-ǎvardim = آوردیم
+āvardim = آوردیم
 
-nayǎvardim = نیاوریم 
+nayāvardim = نیاوریم 
 
 ### نشان گروهی
 
@@ -133,33 +133,33 @@ nayǎvardim = نیاوریم
 
 نمونه:
 
-pesarhǎ = پسرها
+pesarhā = پسرها
 
-pesarǎn = پسران
+pesarān = پسران
 
 
-### «ی» بستگی پیوسته است، ولی «ی» ناشناس (نکره) جدا نوشته می‌شود.
+### «ی» بستگی و ناشناس پیوسته است.
 
-Idehǎ e jahǎni = ایده‌های جهانی
+Idehā e jahāni = ایده‌های جهانی
 
-Jahǎn i ke mibinim = جهانی که می‌بینیم
+Jahān i ke mibinim = جهانی که می‌بینیم
 
 
 ### ضمیر خودی پیوسته م، ت، ش، مان، تان، شان
-(y)am, (y)at, (y)aš, (y)emǎn, (y)etǎn, (y)ešan
+(y)am, (y)at, (y)aš, (y)emān, (y)etān, (y)ešan
 این ضمیرها همواره جدا نوشته می‌شوند.
 
 نمونه:
 
-xǎne yemǎn = خانهٔ‌مان
+xāne yemān = خانهٔ‌مان
 
 pesar am =  پسرم
 
-xodǎ pesar am dǎd = خدا پسرم داد
+xodā pesar am dād = خدا پسرم داد
 
-be komak etǎn niyǎz dǎram?  = به کمکتان نیاز دارم؟ (به کمکِ شما نیاز دارم؟)
+be komak etān niyāz dāram?  = به کمکتان نیاز دارم؟ (به کمکِ شما نیاز دارم؟)
 
-dar zendegi komak etan kard. = در زندگی کمکتان کرد. (در زندگی به شما کمک کرد.)
+dar zendegi komak etān kard. = در زندگی کمکتان کرد. (در زندگی به شما کمک کرد.)
 
 ### ' چندین کاربرد بین واژه‌ای دارد
 
@@ -167,60 +167,57 @@ dar zendegi komak etan kard. = در زندگی کمکتان کرد. (در زند
 
 k'az = کز
 
-v'r = ور
+va'r = ور
 
 z'U = زو
 
 kami'st = کمیست
 
-Az U šǎdemǎni yo z'U yat qami'st
+Az U šādmāni yo z'Uy at qami'st
 
-V'az U yat fozuni yo z'U yat kami'st
+V'az Uy at fozuni yo z'Uy at kami'st
 
 ازو شادمانی وزویت غمیست
 
 وزویت فزونی وزویت کمیست
 
-در z'U at چون حالت وابستگی ندارد (کسره اضافه دیده نمی‌شود)، at هنگام خواندن yat می‌شود.
-
-
 ۲. برای نوشتن فرم کوتاه کارواژهٔ «هست»، «است»:
 
-ǎnhǎ bidǎr'and = آنها بیدارند
+ānhā bidār'and = آنها بیدارند
 
 -----------------------------------
 
 دلتنگیهای آدمی را باد ترانه‌ای می‌خواند
 
-Deltangihǎ ye ǎdami rǎ bǎd tarǎne yi mixǎnad
+Deltangihā ye ādami rā bād tarānei mixānad
 
 رویاهایش را آسمان پر ستاره نادیده می‌گیرد
 
-rowyǎhǎ yaš rǎ ǎsmǎn e por-setǎre nǎdide migirad
+rowyāhā yaš rā āsmān e porsetāre nādide migirad
 
 و هر دانه ی برفی به اشکی ناریخته می‌ماند
 
-va har dǎne ye barf i be ašk i nǎrixte mimǎnad
+va har dāne ye barfi be aški nārixte mimānad
 
 سکوت سرشار از سخنان ناگفته است
 
-sokut saršǎr az soxanǎn e nǎgofte ast
+sokut saršār az soxanān e nāgofte ast
 
 از حرکات ناکرده
 
-az harakǎt e nǎkarde
+az harakāt e nākarde
 
 اعتراف به عشق‌های نهان
 
-eěterǎf be ešqhǎ ye nahǎn
+eëterāf be ešqhā ye nahān
 
 و شگفتی‌های بر زبان نیامده
 
-va šegeftihǎ ye bar zaban nayǎmade
+va šegeftihā ye bar zaban nayāmade
 
 در این سکوت حقیقت ما نهفته است
 
-dar in sokut haqiqat e mǎ nahofte ast
+dar in sokut haqiqat e mā nahofte ast
 
 حقیقت تو و من
 
@@ -232,25 +229,25 @@ haqiqat e to va man
 
 سر جنگ جویان برآمد ز خواب
 
-Be šabgir cun bardamid ǎftǎb
+Be šabgir con bardamid āftāb
 
-Sar e jangjuyǎn barǎmad ze xǎb
+Sar e jangjuyān barāmad ze xāb
 
 بپوشید سهراب خفتان رزم
 
 سرش پر ز رزم و دلش پر ز بزم
 
-Bepušid Sohrǎb xeftǎn e razm
+Bepušid Sohrāb xeftān e razm
 
-Sar e aš por ze razm o del e aš por ze bazm
+Sar aš por ze razm o del aš por ze bazm
 
 بیامد خروشان بران دشت جنگ
 
 به چنگ اندرون گرزهٔ گاورنگ
 
-Beyǎmad xorušǎn barǎn dašt e jang
+Beyāmad xorušān bar ān dašt e jang
 
-Be cang andarun gorze e gǎvrang
+Be cang andarun gorze ye gāvrang
 
 ز رستم بپرسید خندان دو لب
 
@@ -258,15 +255,15 @@ Be cang andarun gorze e gǎvrang
 
 Ze Rostam beporsid xandan do lab
 
-To gofti ke bǎ U beham bud šab
+To gofti ke bā U be ham bud šab
 
 که شب چون بدت روز چون خاستی
 
 ز پیگار بر دل چه آراستی
 
-Ke šab cun bod'at? Ruz cun xǎsti?
+Ke šab cun bod at? Ruz cun xāsti?
 
-Ze peygǎr bar del ce ǎrǎsti?
+Ze peygār bar del ce ārāsti?
 
 ز کف بفگن این گرز و شمشیر کین
 
@@ -274,39 +271,39 @@ Ze peygǎr bar del ce ǎrǎsti?
 
 Ze kaf befgan in gorz o šamšir e kin
 
-Bezan jang o bidǎd rǎ bar zamin
+Bezan jang o bidād rā bar zamin
 
 نشنیم هر دو پیاده به هم
 
 به می‌تازه داریم روی دژم
 
-Nešinim har do piyǎde be ham
+Nešinim har do piyāde be ham
 
-Be mey tǎze dǎrim ruy e dožam
+Be mey tāze dārim ruy e dožam
 
 به پیش جهاندار پیمان کنیم
 
 دل از جنگ جستن پشیمان کنیم
 
-Be piš e jahǎndǎr peymǎn konim
+Be piš e jahāndār peymān konim
 
-Del az jang jostan pašimǎn konim
+Del az jang jostan pašimān konim
 
 همان تا کسی دیگر آید به رزم
 
 تو با من بساز و بیارای بزم
 
-Hamǎn tǎ kasi digar ǎyad be razm
+Hamān tā kasi digar āyad be razm
 
-To bǎ man besǎz o biyǎrǎy bazm
+To bā man besāz o biyārāy bazm
 
 دل من همی با تو مهر آورد
 
 همی آب شرمم به چهر آورد
 
-Del e man hami bǎ to mehr ǎvarad
+Del e man hami bā to mehr āvarad
 
-Hami ǎbe šarm am be cehr ǎvarad
+Hami ābe šarm am be cehr āvarad
 
 ----------------------------------------
 
@@ -318,13 +315,13 @@ Hami ǎbe šarm am be cehr ǎvarad
 
 دیدی که چگونه گور بهرام گرفت
 
-Ǎn qasr ke Jamšid dar U jǎm gereft
+Ǎn qasr ke Jamšid dar U jām gereft
 
-Ǎhu bace kard o rubah ǎrǎm gereft
+Ǎhu bace kard o rubah ārām gereft
 
-Bahrǎm ke gur migerfti hame omr
+Bahrām ke gur migerfti hame omr
 
-Didi ke cegune gur Bahrǎm gereft
+Didi ke cegune gur Bahrām gereft
 
 ----------------------------------------
 
